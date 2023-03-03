@@ -1,2 +1,2 @@
-# excercize---code
-solved excercize
+# table excercize
+from previous assignment
