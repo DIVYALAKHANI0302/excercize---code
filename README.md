@@ -1,2 +1,2 @@
 # table excercize
-from previous assignment
+this is the solved table excercize from my previous assignment.
